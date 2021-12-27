@@ -21,7 +21,6 @@ func ConnectDB() *mongo.Client  {
 	if err != nil {
 		log.Fatal(err)
 	}
-	defer client.Disconnect(ctx)
 
 	//ping the database
 	err = client.Ping(ctx, nil)

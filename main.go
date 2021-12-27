@@ -9,7 +9,7 @@ import (
 
 func main() {
 	router := gin.Default()
-	
+
 	//run database
 	configs.ConnectDB()
 
