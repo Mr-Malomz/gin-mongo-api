@@ -6,4 +6,4 @@ This repository shows the source code for building a user management application
 
 Article Link
 
-[Article Link]()
+[Article Link](https://dev.to/hackmamba/build-a-rest-api-with-golang-and-mongodb-gin-gonic-version-269m)
